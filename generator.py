@@ -9,7 +9,7 @@ class Generator:
             result.append(randint(minRange, maxRange))
 
         
-        return f"Amount retuerned: {amount}\nStarting range: {minRange}\nEndring range: {maxRange}\n Result: {result}"
+        return f"Amount retuerned: {amount}\nStarting range: {minRange}\nEndring range: {maxRange}\nResult: {result}"
 
 
 if (__name__ == '__main__'):
