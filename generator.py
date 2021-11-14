@@ -14,7 +14,7 @@ class Generator:
 
 if (__name__ == '__main__'):
     gen = Generator()
-    print(gen.randomNumRange(10, 1, 50))
+    print(gen.randomNumRange(5, 10, 30))
 
 
 
